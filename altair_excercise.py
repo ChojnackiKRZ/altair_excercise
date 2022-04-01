@@ -2,6 +2,7 @@ import altair as alt
 import seaborn as sns
 from os import chdir
 
+
 path = (
     r"C:\Users\krzys\Desktop\data science\IV semestr\machine_learning\altair_excercise"
 )
